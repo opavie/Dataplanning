@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Dataplanning",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "N2VjNjg3Yzg5NDBiNDE4ZWEwODk5ODQ2NzBmYmFkNDJlNzFiZTVhZDY5MmEwNjk1M2MxOGQ1MDJmM2MyOGIyZWE0MTNhYWUwMjhmYWUyYjdlNmM4OTRiOTEzY2IwZjk2OThjNzUzMDVhOWY2MDRjYjkxODUwMGM2MGU5MTg3MGY=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "opavie",
+  "repository-name": "Dataplanning"
+}
